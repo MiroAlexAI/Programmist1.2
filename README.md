@@ -1,5 +1,6 @@
 # Programmist1.2
 Автор игры Программист - razor21 a.k.a. Родионов Степан.
+![image](https://github.com/user-attachments/assets/fce56aed-c702-4129-ae6f-62b2fa64904f)
 
 
 
